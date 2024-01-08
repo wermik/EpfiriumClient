@@ -75,7 +75,7 @@ body {
 
 
 :root {
-    --main-color: #2680fe;
+    --main-color: linear-gradient(to bottom, rgba(16, 19, 21, 0.6), rgba(16, 19, 21, 0.6);
     --dark-color: #141414;
     --light-dark-color: #242424;
 }
